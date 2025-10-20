@@ -1,0 +1,2 @@
+Reference : https://en.wikipedia.org/wiki/3D_rotation_group
+**Definition)** In mechanics and geometry, the **3D rotation group**, often denoted **[SO](https://en.wikipedia.org/wiki/Special_orthogonal_group "Special orthogonal group")(3)**, is the group of all rotations about the origin of three-dimensional Euclidean space $\mathbb{R}^{3}$ under the operation of composition.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProblemSolving/31304. Garden of Thorns.md",
+                "file": "ProblemSolving/22695. Spirograph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31304. Garden of Thorns"
+              "title": "22695. Spirograph"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "d05edb8cbc91f17f",
   "lastOpenFiles": [
-    "ProblemSolving/동전 던지기.md",
     "ProblemSolving/31304. Garden of Thorns.md",
+    "ProblemSolving/22695. Spirograph.md",
+    "ProblemSolving/동전 던지기.md",
     "ProblemSolving/마든 정리.md",
     "ProblemSolving/34041. 회전체와 쿼리.md",
     "ProblemSolving/32232. 엉엉이의 저주 탈출.md",

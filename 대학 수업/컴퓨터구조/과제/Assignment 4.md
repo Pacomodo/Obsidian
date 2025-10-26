@@ -190,33 +190,7 @@ Size of virtual address = 20-bits, size of physical address = 16-bits
 Word size = 4 byte, page size = 4 KB
 L1 cache: direct-mapped, 4 words/block, 4 entries
 L1 TLB: direct-mapped, 2 entries
-```tikz
-\usepackage{tikz}
-\usetikzlibrary{shapes.geometric, arrows, positioning}
-
-\tikzstyle{block} = [rectangle, draw, fill=gray!20, text centered, minimum height=0.5cm, minimum width=2cm]
-\tikzstyle{line} = [draw, -latex]
-
-\begin{document}
-\begin{tikzpicture}[node distance=3cm]
-
-% Nodes
-\node (Processor) [block] {Processor};
-\node (TLB) [block, right of=Processor] {L1 TLB};
-\node (Cache) [block, right of=TLB] {L1 cache};
-\node (DRAM) [block, right of=Cache] {DRAM};
-\node (PageTable) [block, below=0.5cm of DRAM] {Page Table};
-
-% Lines 
-\draw [line] (Processor) -- (TLB); 
-\draw [line] (TLB) -- (Cache); 
-\draw [line] (Cache) -- (DRAM);
-\draw [line] (DRAM) -- (Cache);
-\draw [line] (PageTable) -| (TLB); 
-
-\end{tikzpicture}
-\end{document}
-```
+![[assignment4figure.png|center]]
 When a memory instruction is executed, the processor first accesses the L1 TLB to translate virtual address into physical address. Then the L1 cache is accessed using the physical addresses.
 
 (a) What is the maximum size of the virtual memory supported by this system?

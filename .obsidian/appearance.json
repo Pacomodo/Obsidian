@@ -5,6 +5,7 @@
   "baseFontSizeAction": true,
   "baseFontSize": 17,
   "enabledCssSnippets": [
-    "image_align"
+    "image_align",
+    "imagealign"
   ]
 }

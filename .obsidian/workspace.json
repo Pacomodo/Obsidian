@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProblemSolving/2350. 대운하.md",
+                "file": "ProblemSolving/이분 매칭.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2350. 대운하"
+              "title": "이분 매칭"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "e8b3cfb35d1447ea",
   "lastOpenFiles": [
+    "ProblemSolving/2350. 대운하.md",
+    "ProblemSolving/이분 매칭.md",
     "ProblemSolving/7881. YAPTCHA.md",
     "ProblemSolving/22695. Spirograph.md",
     "ProblemSolving/24558. Downsizing.md",
@@ -183,7 +185,6 @@
     "Image/Pasted image 20251029141130.png",
     "Image/Pasted image 20251029140742.png",
     "ProblemSolving/자작 문제",
-    "ProblemSolving/2350. 대운하.md",
     "SCSA/웹/요소.md",
     "박승안 현대대수학/2장/2.1/연습문제.md",
     "SCSA/웹/개요.md",
@@ -207,7 +208,6 @@
     "ProblemSolving/34173. PS는 풋살의 약자야.md",
     "SCSA/DB/그룹 함수.md",
     "SCSA/DB/JOIN.md",
-    "SCSA/DB/무제.md",
     "박승안 현대대수학/1장/1.2",
     "박승안 현대대수학/2장/2.1",
     "박승안 현대대수학/1장",

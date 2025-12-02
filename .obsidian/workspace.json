@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProblemSolving/문제풀이/3683. Cat vs. Dog.md",
+                "file": "ProblemSolving/알고리즘&수학/LCA와 Sparse table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3683. Cat vs. Dog"
+              "title": "LCA와 Sparse table"
             }
           }
         ]
@@ -171,12 +171,16 @@
   },
   "active": "01485d6c378a646b",
   "lastOpenFiles": [
-    "SCSA/Backend/무제.md",
+    "Image/graph (1).png",
+    "ProblemSolving/알고리즘&수학/세그먼트 트리.md",
+    "ProblemSolving/알고리즘&수학/히스토그램에서 가장 큰 직사각형.md",
+    "ProblemSolving/알고리즘&수학/LCA와 Sparse table.md",
+    "Image/graph.png",
     "ProblemSolving/문제풀이/3683. Cat vs. Dog.md",
+    "SCSA/Backend/무제.md",
     "SCSA/Backend/VO(Value Object).md",
     "SCSA/Backend/DTO(Data Transfer Object).md",
     "SCSA/Backend/Spring Web MVC Framework.md",
-    "ProblemSolving/알고리즘&수학/히스토그램에서 가장 큰 직사각형.md",
     "Image/Pasted image 20251111153821.png",
     "Image/Pasted image 20251111153612.png",
     "Image/Pasted image 20251111153558.png",
@@ -192,22 +196,18 @@
     "박승안 현대대수학/2장/2.1/연습문제.md",
     "박승안 현대대수학/2장/2.1/정리 2.1.9.md",
     "ProblemSolving/문제풀이/22695. Spirograph.md",
-    "ProblemSolving/알고리즘&수학/세그먼트 트리.md",
     "ProblemSolving/문제풀이/11014. 컨닝 2.md",
     "ProblemSolving/알고리즘&수학/이분 매칭.md",
     "ProblemSolving/알고리즘&수학/마든 정리.md",
     "ProblemSolving/문제풀이/2350. 대운하.md",
     "SCSA/Backend",
     "Image/Pasted image 20251101181922.png",
-    "Image/Pasted image 20251101181754.png",
     "박승안 현대대수학/2장/2.1/정의 2.1.1.md",
     "ProblemSolving/알고리즘&수학/파푸스 굴딘 정리.md",
     "ProblemSolving/문제풀이/34173. PS는 풋살의 약자야.md",
     "ProblemSolving/문제풀이/32232. 엉엉이의 저주 탈출.md",
     "ProblemSolving/문제풀이/31435. 기숙사 비밀번호 구하기.md",
     "ProblemSolving/문제풀이/31304. Garden of Thorns.md",
-    "ProblemSolving/문제풀이/24558. Downsizing.md",
-    "ProblemSolving/문제풀이/7881. YAPTCHA.md",
     "ProblemSolving/알고리즘&수학",
     "ProblemSolving/문제풀이",
     "ProblemSolving/자작 문제",

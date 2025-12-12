@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProblemSolving/알고리즘&수학/LCA와 Sparse table.md",
+                "file": "SCSA/안드로이드/아이디어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LCA와 Sparse table"
+              "title": "아이디어"
             }
           }
         ]
@@ -171,10 +171,13 @@
   },
   "active": "01485d6c378a646b",
   "lastOpenFiles": [
+    "ProblemSolving/알고리즘&수학/SCC(Strongly Connected Component).md",
+    "SCSA/안드로이드/아이디어.md",
+    "SCSA/안드로이드",
+    "ProblemSolving/알고리즘&수학/LCA와 Sparse table.md",
     "Image/graph (1).png",
     "ProblemSolving/알고리즘&수학/세그먼트 트리.md",
     "ProblemSolving/알고리즘&수학/히스토그램에서 가장 큰 직사각형.md",
-    "ProblemSolving/알고리즘&수학/LCA와 Sparse table.md",
     "Image/graph.png",
     "ProblemSolving/문제풀이/3683. Cat vs. Dog.md",
     "SCSA/Backend/무제.md",
@@ -201,13 +204,11 @@
     "ProblemSolving/알고리즘&수학/마든 정리.md",
     "ProblemSolving/문제풀이/2350. 대운하.md",
     "SCSA/Backend",
-    "Image/Pasted image 20251101181922.png",
     "박승안 현대대수학/2장/2.1/정의 2.1.1.md",
     "ProblemSolving/알고리즘&수학/파푸스 굴딘 정리.md",
     "ProblemSolving/문제풀이/34173. PS는 풋살의 약자야.md",
     "ProblemSolving/문제풀이/32232. 엉엉이의 저주 탈출.md",
     "ProblemSolving/문제풀이/31435. 기숙사 비밀번호 구하기.md",
-    "ProblemSolving/문제풀이/31304. Garden of Thorns.md",
     "ProblemSolving/알고리즘&수학",
     "ProblemSolving/문제풀이",
     "ProblemSolving/자작 문제",
@@ -216,7 +217,6 @@
     "박승안 현대대수학/1장/1.2",
     "박승안 현대대수학/2장/2.1",
     "박승안 현대대수학/1장",
-    "박승안 현대대수학/2장",
     "Untitled.canvas"
   ]
 }

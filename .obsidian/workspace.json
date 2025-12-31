@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b16824f44fee55af",
+        "id": "39490fab668707cf",
         "type": "tabs",
         "children": [
           {
-            "id": "01485d6c378a646b",
+            "id": "b9a191d0efc7dbda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProblemSolving/알고리즘&수학/볼록 껍질(Convex Hull).md",
+                "file": "ProblemSolving/알고리즘&수학/트리에서의 전방향 다이나믹 프로그래밍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "볼록 껍질(Convex Hull)"
+              "title": "트리에서의 전방향 다이나믹 프로그래밍"
             }
           }
         ]
@@ -169,8 +169,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "01485d6c378a646b",
+  "active": "b9a191d0efc7dbda",
   "lastOpenFiles": [
+    "ProblemSolving/알고리즘&수학/볼록 껍질(Convex Hull).md",
+    "ProblemSolving/알고리즘&수학/트리에서의 전방향 다이나믹 프로그래밍.md",
     "Image/Pasted image 20251223115726.png",
     "Image/Animation_depicting_the_Monotone_algorithm.gif",
     "Image/Pasted image 20251223113023.png",
@@ -181,9 +183,7 @@
     "Image/Pasted image 20251223112044.png",
     "Image/Pasted image 20251223111953.png",
     "Image/Pasted image 20251223111948.png",
-    "Image/Pasted image 20251223111815.png",
     "ProblemSolving/알고리즘&수학/세그먼트 트리.md",
-    "ProblemSolving/알고리즘&수학/볼록 껍질(Convex Hull).md",
     "SCSA/안드로이드/아이디어.md",
     "무제 1.md",
     "ProblemSolving/알고리즘&수학/SCC(Strongly Connected Component).md",
